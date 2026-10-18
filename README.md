@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**Krishchaplot/Krishchaplot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+I'm learning software development and building projects to strengthen my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Learning programming with C and Python
+- Exploring Git, GitHub, and collaborative development
+- Working towards building useful software projects
+
+### Technologies
+- C
+- Python
+- Git & GitHub
+
+### Goals
+- Build practical projects
+- Contribute to team projects
+- Improve my problem-solving skills
+
+
+
+---
+
+*Learning by building, improving one project at a time.*
